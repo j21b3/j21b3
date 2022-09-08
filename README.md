@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is j21p3, a programmer love anything interesting.
+This is j21p3, a normal programmer.
 
 #### Education&Working Experience
     🎓 Harbin Institute of Technology at Weihai, BEng in Cyber Security, 9.2017-06.2021
